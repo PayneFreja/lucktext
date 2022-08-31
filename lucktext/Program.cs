@@ -14,5 +14,7 @@ friendName = Console.ReadLine();
 Console.WriteLine($"{name}, Jag har nått att säga till dig...");
 Console.WriteLine($"{friendName} Berätta för mig att du lagar hemsk {favoriteFood} och när {friendName} äter det så vill han/hon spy.");
 
+Console.WriteLine("goodbye");
+
 Console.WriteLine("Tryck på ENTER för att avsluta.");
 Console.ReadLine();
